@@ -9,3 +9,5 @@ Thumbs.db
 .sass-cache
 dist
 tmp
+*.sublime-workspace
+
