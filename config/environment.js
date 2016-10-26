@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'interview-ember',
+    podModulePrefix: 'interview-ember/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
